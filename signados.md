@@ -1,5 +1,6 @@
 ## Signados
 ### _Por Hugo Virgílio_
+#### _28 de Setembro, 2017_
 Um dia Dr Fulano recebe em seu consultório um cidadão com uma queixa inédita. Este aparece com uma marca jamais vista pelo médico, que começa o exame. A marca tem tais e quais características e deixa Fulano muito intrigado. Dado o ineditismo, tudo que ele pôde fazer foi pedir ao paciente que retornasse numa outra ocasião enquanto o médico faria uma pesquisa a fim de encontrar pistas a respeito da patologia.
 
 Após semanas a fio o médico não encontra nada cujos sintomas sejam exatamente como os vistos na consulta, nesse caso ele decide chamar o paciente de volta para pedir exames de laboratório com coleta de material biológico. Quem sabe assim ele se aproximasse de um diagnóstico.
