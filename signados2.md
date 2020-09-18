@@ -3,7 +3,7 @@
 
 Já se passaram três anos desde que Fulano fugiu da perseguição em razão do seu mais consagrado trabalho: a classificação e interpretação daquilo que chamou de Signos. Um tipo de marca que surgiu nas testas das pessoas e que Fulano percebeu se tratar de uma confissão involuntária dos delitos passados e presentes do portador.
 
-Os signos chegaram para ficar e foram instrumento de todo tipo de arbitrariedade, desde a mais absoluta intolerância aos delitos listados entre os crimes anteriormente previstos em lei até a transformação em tabu a exibição da própria testa. Em um extremo, os signos instituíram confissão questionada apenas na interpretação de um ou outro perito e no outro fez prosperar uma nova indústria de indumentária para cobrir o signo - despir a testa se tornou ato de extrema intimidade, reservada aos mais próximos. Mesmo sem se aprofundar na compreensão dos significados, todos tinham noção das formas derivadas de determinados delitos. Alguns países passaram a enfrentar enorme aumento nas taxas de suicídio.
+Os signos chegaram para ficar e foram instrumento de todo tipo de arbitrariedade, desde a mais absoluta intolerância aos delitos listados entre os crimes anteriormente previstos em lei até a transformação em tabu a exibição da própria testa. Em um extremo, os signos constituíram confissão questionada apenas na interpretação de um ou outro perito e no outro extremo fez prosperar uma nova indústria de indumentária para cobrir o signo - despir a testa se tornou ato de extrema intimidade, reservada aos mais próximos. Mesmo sem se aprofundar na compreensão dos significados, todos tinham noção das formas derivadas de determinados delitos. Alguns países passaram a enfrentar enorme aumento nas taxas de suicídio.
 
 O Dr se casou e teve uma filha. Foi com elas que vivenciou o primeiro momento daquilo que revolucionaria o que a ciência aprendeu sobre os signos.
 
@@ -29,5 +29,5 @@ Os traficantes, incapazes de esboçar um sentimento positivo ou neutro, sumiram.
 
 Mamé, num lampejo de genialidade infantil, perguntou para o pai: porque somente as coisas feias ficam evidentes nas testas das pessoas? 
 
-Depois de muito investigar, ele chegou à conclusão de que os fatos positivos e edificantes têm mais intenso efeito no signo momentâneo, em especial de alegria e satisfação. Atitudes positivas não deixam marcas expressivas que se manifestem de forma duradoura bem como não estão sujeitas à acentuação provocada pela culpa.
+Depois de muito investigar, ele chegou à conclusão de que os fatos positivos e edificantes têm mais intenso efeito no signo momentâneo, em especial de alegria e satisfação. Mesmo assim, a pergunta de Mamé permanece sem resposta: por que atitudes positivas não deixam signos expressivos que se manifestem de forma duradoura?
 
