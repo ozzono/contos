@@ -1,4 +1,5 @@
 ## Signados 3
+### Ainda não é tempo de parar a busca e descansar
 
 Mais uma vez Dr Fulano e seus estudos mereceram destaque por este que vos fala. Diferente porém, foi o desfecho dos fatos, já que ele previra varias repetições, culminando mais uma vez na covardia, na fuga e no ostracismo. Quando da sua descoberta daquilo que batizou de signos momentâneos, no geral, as pessoas já estavam acostumadas à idéia de levar na testa um signo que continha histórico de todos os seus grandes e pequenos delitos, por mais desconfortável que isso fosse. Acrescentar o fato de que se poderia, a partir de então, ler as emoções, tão somente aumentou o desconforto, mas não a ponto de justificar nova fuga.
 
