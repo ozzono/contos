@@ -26,7 +26,9 @@ Logo Fulano perdeu a vergonha e se tornou amigo dos dois dirigentes que tiveram 
 Quando já era capaz de entender quase plenamente as auras, o Dr se lembrou da pergunta de Mamé: por que só as ações reprováveis marcam e permanecem?
 
 A resposta deixou Fulano envergonhado, com a aura trêmula em tom rosa apagado. Primeiro ele perguntou ao Monge, que respondeu com um sorriso mas sem palavras; apenas com a aura:
+
 — Ora, porque até hoje todo o seu estudo dos signos foi feito fazendo apenas perguntas negativas.
+
 O Médium, também sorridente e também apenas com a aura deu exatamente a mesma resposta. Será que eles combinaram? Os dois pareciam estar esperando o dia em que essa pergunta finalmente seria feita e ficaram muito alegres em respondê-la.
 
 Então ele se lembrou de como tudo começou, primeiro analisando detentos e relacionando crimes; depois expandindo para delitos não-criminais; mas nunca incluiu nas análises atitude neutras, quem dirá positivas. Até na revolução trazida por Silas com a ajuda do psicólogo ele usou apenas as atitudes de mesma natureza, de mesmo viez: criminosas, delituosas, reprováveis.
