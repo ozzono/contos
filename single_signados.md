@@ -75,10 +75,10 @@ A terceira descoberta de Fulano no estudo dos signos, no entanto, se iniciou no 
 
 Descontente em apenas responder para a filha que os signos momentâneos manifestavam emoções positivas e negativas, pôs-se a procurar a resposta.
 
-Sendo ele próprio um cidadão mais vivido, podendo-se dizer até que não é nenhum jovem, ou mesmo que já é de meia idade, Dr não tinha gosto pela tecnologia e muito menos por seus meandros técnicos, incompreensíveis para si. Assim, as infinitas possibilidades que esta ferramenta poderia lhe oferecer também passaram desapercebidas. Foi seu irmão, engenheiro de software e aficionado por tecnologia, quem, vendo um entre tantos dos catálogos de signos com relatório de análise, perguntou: por que vc não submete esse material a análise de imagem com inteligência artificial?
+Sendo ele próprio um cidadão mais vivido, podendo-se dizer até que não é nenhum jovem, ou mesmo que já é de meia idade, Dr não tinha gosto pela tecnologia e muito menos por seus meandros técnicos, incompreensíveis para si. Assim, as infinitas possibilidades que esta ferramenta poderia lhe oferecer também passaram desapercebidas. Foi seu irmão, engenheiro de software e aficionado por tecnologia, quem, vendo um entre tantos dos catálogos de signos com relatório de análise, perguntou: por que você não submete esse material a análise de imagem com inteligência artificial?
 
 Então, naquela tarde quente e seca, Fulano teve, ao mesmo tempo, uma surpresa seguida de enorme entusiasmo com os resultados que sequer conseguia imaginar, e um tanto de vergonha, tanto por nunca ter lhe ocorrido a possibilidade de utilizar tecnologia, quanto por não ter a mínima idéia de como fazê-lo ou mesmo de por onde começar. O próprio irmão o ajudou nessa parte, começando por digitalizar os signos catalogados com seus respectivos relatórios e esboçando o primeiro modelo de análise.
-são
+
 Junto à digitalização do que já tinha, foi iniciada uma grande campanha para preenchimento do banco de dados de signos junto com um minucioso formulário contendo os principais delitos e sentimentos. Posteriormente havia a possibilidade tanto de validar o que foi informado no formulário, confrontando-o com os resultados contínuos da análise, quanto a perspectiva de expandir o que a leitura do signo apontava com respostas cujas perguntas não estavam no formulário e poderiam ser confirmadas.
 
 Após tamanho esforço, Fulano e seu irmão, Butano, concluíram a versão 1 do **SiLAS**, **Si**stema de **L**eitura **A**vançada de **S**ignos, conseguindo observar as primeiras conclusões. Silas, como ficou conhecido, foi capaz de identificar que cada signo é dividido em três setores, dispostos da seguinte maneira:
@@ -90,7 +90,7 @@ Esse novo setor era intrigante e Silas apontou que esteve presente em grande par
 
 Para resolver essa questão os irmãos recorreram aos voluntários da campanha. Entre os participantes do estudo foram selecionados 10% do total para realização de entrevista gravada em vídeo, tomando o cuidado de deixar de fora os já identificados como omissos, mentirosos ou manipuladores. A primeira e a segunda rodada de entrevista não revelaram nada. Pôde-se notar a presença de um padrão favorável somente na terceira, quando um dos entrevistadores, que era psicólogo e espiritualista, fugiu do protocolo utilizando uma coleção própria de perguntas em mais de 50 entrevistas.
 
-Apesar de 50 relatos ser um número muito pequeno para se identificar padrões descritíveis sob análise do Silas, foi suficiente para  a equipe aceitar as sugestões do psicólogo na expansão do formulário original, abordando muitos outros aspectos ignorados inicialmente. Com esse novo formulário foi possível seguir adiante com o estudo, aplicado, agora sim, a todos os participantes.
+Apesar de 50 relatos ser um número muito pequeno para se identificar padrões descritíveis sob análise do Silas, foi suficiente para a equipe aceitar as sugestões do psicólogo na expansão do formulário original, abordando muitos outros aspectos ignorados inicialmente. Com esse novo formulário foi possível seguir adiante com o estudo, aplicado, agora sim, a todos os participantes.
 
 Assim foram descobertos os signos intermediários, informando o estado emocional não-momentâneo das pessoas.
 
@@ -127,7 +127,6 @@ Essa novidade sim, lembrando a primeira descoberta, foi capaz de gerar inesperad
 Lembrou muito o começo dos serviços de motoristas particulares contratados por aplicativo. Falando em aplicativos de motoristas, o serviço líder desse segmento criou uma nova categoria de enorme sucesso em que o cliente, ao iniciar um corrida, tem acesso ao signo frontal completo do motorista junto com análise digital feita, vejam só, pelo próprio Silas Online. As concorrentes trataram de copiar e rapidamente virou padrão desse mercado poder ver o signo do motorista antecipadamente, variando apenas se o serviço é gratuito ou não.
 
 Durante o embate jurídico, o Silas Online fez questão de salientar que não coloca cartazes nos postes, evitando a poluição visual e o acúmulo de papel nos bueiros das cidades, e assim contribuindo para cidades mais limpas e com menos enchentes. Ao final, essa briga só fez barulho, sem interromper a prestação do serviço; foi o triste fim de mais uma profissão cruelmente substituída pela tecnologia.
-
 
 Assim Silas Online se espalhou pelo mundo igual um vírus respiratório, revolucionando a análise dos signos e provocando os signólogos, que em cada país já sabiam da aproximação do fim da carreira nesse segmento. Para piorar, a equipe de marketing se apressou em oferecer diversos pacotes e assinaturas para conquistar tantos clientes quantos fosse possível.
 
