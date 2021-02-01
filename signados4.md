@@ -13,7 +13,7 @@ Foi então que ele se deu por vencido e começou a considerar a ida a um centro 
 
 As primeiras visitas se deram a um centro espírita e foi então que viu com maior frequência um tipo raro de aura. Incapaz de dizer se havia algum significado, muito menos de compreender qualquer carga lógica, seu ceticismo religioso diminuiu um pouco ao ver algumas auras tão mais suaves e radiantes do que aquelas com as quais se acostumara.
 
-Destaque para a aura de um jovem que acompanhava uma senhora bem velhinha; ele cuidava dela com muito carinho e dedicação. Seu signo era muito discreto com poucos delitos, e mesmo estes praticados com pouca frequência. Seu signo momentâneo parecia manifestar o sentimento de absoluta tranquilidade e de amor, de um tipo novo para Fulano. Sempre que o Dr se via na mira do seu olhar, sentia que o jovem ouvia seus pensamentos. Nessa primeira visita o Dr não chegou a buscar atendimento nem respostas para suas perguntas, apenas saiu pensativo e tentando entender o que eram essas auras, por quê nunca tinha visto signo como o do jovem antes, ou se este era de fato capaz de perceber o que pensava.
+Destaque para a aura de um jovem que acompanhava uma senhora bem velhinha; ele cuidava dela com muito carinho e dedicação. Seu signo era muito discreto com poucos delitos, e mesmo estes praticados com pouca frequência. Seu signo momentâneo parecia manifestar o sentimento de absoluta tranquilidade e de amor, de um tipo novo para Fulano. Sempre que o Dr se via na mira do seu olhar, sentia que o jovem ouvia seus pensamentos. Nessa primeira visita o Dr não chegou a buscar atendimento nem respostas para suas perguntas, apenas saiu pensativo e tentando entender o que eram essas auras, porquê nunca tinha visto signo como o do jovem antes, ou se este era de fato capaz de perceber o que pensava.
 
 Foi em sua segunda visita, sem resistir à curiosidade de retornar ao centro, conversando com um dos dirigentes do lugar, que Fulano descobriu não ser nem o primeiro nem o único a ver auras, sendo apenas o primeiro a querer documentar o que via. O dirigente, apesar de ter um nome, só era chamado de _Médium_ pelo Dr. O Médium demoradamente lhe explicou o que eram as auras. Ao menos dessa vez ele não precisou estudar e catalogar para enfim entender algo.
 
@@ -31,8 +31,8 @@ A resposta deixou Fulano envergonhado, com a aura trêmula em tom rosa apagado. 
 
 O Médium, também sorridente e também apenas com a aura deu exatamente a mesma resposta. Será que eles combinaram? Os dois pareciam estar esperando o dia em que essa pergunta finalmente seria feita e ficaram muito alegres em respondê-la.
 
-Então ele se lembrou de como tudo começou, primeiro analisando detentos e relacionando crimes; depois expandindo para delitos não-criminais; mas nunca incluiu nas análises atitude neutras, quem dirá positivas. Até na revolução trazida por Silas com a ajuda do psicólogo ele estudou apenas as atitudes de mesma natureza, de mesmo viez: criminosas, delituosas, reprováveis.
+Então ele se lembrou de como tudo começou, primeiro analisando detentos e relacionando crimes; depois expandindo para delitos não-criminais; mas nunca incluiu nas análises atitude neutras, quem dirá positivas. Até na revolução trazida por Silas com a ajuda do psicólogo ele estudou apenas as atitudes de mesma natureza, de mesmo viés: criminosas, delituosas, reprováveis.
 
-Se _"a boca fala do que está cheio o coração"_, Fulano percebeu que os olhos também só vêem o que no coração encontra eco.
+Se _"a boca fala do que está cheio o coração"_, Fulano percebeu que o olho também vê o que no coração encontra eco.
 
 Finalmente ele tinha uma explicação para Mamé e ele viu genuína alegria em seu signo, enquanto no seu próprio demoradamente viu a vergonha.
